@@ -31,3 +31,5 @@ Steps:
 
 ![alt text](https://github.com/begolazoeg/Virtual_Internship_BA/blob/main/plots/Distribution%20Plot%20for%20Length%20of%20Reviews.png?raw=true)
 
+
+
