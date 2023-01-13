@@ -23,8 +23,9 @@ Steps:
 4. Data viz: Plotting the key data! 
 
 ## Results!
-
+The frequency chart illustrates that the reviews are primarily focused on certain themes, including "service", "seat", "crew", and "staff", indicating that customers are discussing their experiences and interactions with the staff. Also it is important to note how the word 'good' is in third position, which could indicate a good user experience for British Airways. 
 ![alt text](https://github.com/begolazoeg/Virtual_Internship_BA/blob/main/plots/Freq_word_reviews.png?raw=true)
+
 
 ![alt text](https://github.com/begolazoeg/Virtual_Internship_BA/blob/main/plots/Sentiment%20Analysis%20of%20British%20Airways%20reviews.png?raw=true
 )
