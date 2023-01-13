@@ -12,7 +12,7 @@ This model was made on a jupyter notebook, and I used the following libraries: R
 
 ## Steps
 Steps:
-1. Scrape the 3564 reviews on the British Airways website ![link](https://www.airlinequality.com/airline-reviews/british-airways)
+1. Scrape the 3564 reviews on the British Airways website [link](https://www.airlinequality.com/airline-reviews/british-airways)
 
 2. Cleaning of the data, leaving the text column of the reviews ready for analysis.
 
