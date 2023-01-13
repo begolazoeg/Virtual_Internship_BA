@@ -24,4 +24,10 @@ Steps:
 
 ## Results!
 
+![alt text](https://github.com/begolazoeg/Virtual_Internship_BA/blob/main/plots/Freq_word_reviews.png?raw=true)
+
+![alt text](https://github.com/begolazoeg/Virtual_Internship_BA/blob/main/plots/Sentiment%20Analysis%20of%20British%20Airways%20reviews.png?raw=true
+)
+
+![alt text](https://github.com/begolazoeg/Virtual_Internship_BA/blob/main/plots/Distribution%20Plot%20for%20Length%20of%20Reviews.png?raw=true)
 
